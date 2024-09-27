@@ -104,13 +104,13 @@ Ergebnis: Es gibt kein Model, dass gute Vorhersage macht. Weitere Daten wären n
 
 Ziel: Wir fassen unsere Ergebnisse in einem Dokument zusammen und erstellen eine Streamlit App
 
-- Dokumentation:  --> [Pdf](Dokumentation_03.pdf)  
+- Dokumentation:  --> [Pdf](Dokumentation.pdf)  
 
 Bei der Umsetzung der Streamlit App haben wir verschiedene Ansätze verfolgt, nicht alle konnten wir erfolgreich zu Ende führen:
 
-- Ausgabe von Fahradrouten (Rohentwurf, in Bearbeitung) siehe Verzeichnis streamlit_app --> [App mit Routenausgabe](streamlit_app) 
+- Ausgabe von Fahradrouten (Rohentwurf, in Bearbeitung) siehe Verzeichnis streamlit_app --> [App mit Routenausgabe](streamlit/streamlit_app) 
 
-- **finale App**:  Visualisierung der Gefahrenpunkte und OSM Features auf der Berliner Karte --> [finale App](streamlit_app_02/safecycling.py)  
+- **finale App**:  Visualisierung der Gefahrenpunkte und OSM Features auf der Berliner Karte --> [finale App](streamlit/streamlit_app_02/safecycling.py)  
 
 Ergebnis: Wir haben die Dokumentation und eine App erstellt.
 
